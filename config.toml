@@ -1,4 +1,4 @@
-baseurl = "https://www.languages-in-lichtenrade.de"
+baseurl = "https://oldrigger.github.io/langauges-in-lichtenrade/"
 title = "Languages in Lichtenrade"
 theme = "universal"
 publishDir ="docs"

@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Languages in Lichtenrade</title>
-    <link>https://www.languages-in-lichtenrade.de/categories/</link>
+    <link>https://oldrigger.github.io/langauges-in-lichtenrade/categories/</link>
     <description>Recent content in Categories on Languages in Lichtenrade</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017, Languages in Lichtenrade; all rights reserved.</copyright>
     
-	<atom:link href="https://www.languages-in-lichtenrade.de/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://oldrigger.github.io/langauges-in-lichtenrade/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Lorem</title>
-      <link>https://www.languages-in-lichtenrade.de/categories/lorem/</link>
+      <link>https://oldrigger.github.io/langauges-in-lichtenrade/categories/lorem/</link>
       <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
       
-      <guid>https://www.languages-in-lichtenrade.de/categories/lorem/</guid>
+      <guid>https://oldrigger.github.io/langauges-in-lichtenrade/categories/lorem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Programming</title>
-      <link>https://www.languages-in-lichtenrade.de/categories/programming/</link>
+      <link>https://oldrigger.github.io/langauges-in-lichtenrade/categories/programming/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
-      <guid>https://www.languages-in-lichtenrade.de/categories/programming/</guid>
+      <guid>https://oldrigger.github.io/langauges-in-lichtenrade/categories/programming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pseudo</title>
-      <link>https://www.languages-in-lichtenrade.de/categories/pseudo/</link>
+      <link>https://oldrigger.github.io/langauges-in-lichtenrade/categories/pseudo/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
-      <guid>https://www.languages-in-lichtenrade.de/categories/pseudo/</guid>
+      <guid>https://oldrigger.github.io/langauges-in-lichtenrade/categories/pseudo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Starting</title>
-      <link>https://www.languages-in-lichtenrade.de/categories/starting/</link>
+      <link>https://oldrigger.github.io/langauges-in-lichtenrade/categories/starting/</link>
       <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
       
-      <guid>https://www.languages-in-lichtenrade.de/categories/starting/</guid>
+      <guid>https://oldrigger.github.io/langauges-in-lichtenrade/categories/starting/</guid>
       <description></description>
     </item>
     
