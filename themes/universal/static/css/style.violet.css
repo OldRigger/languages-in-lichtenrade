@@ -1202,7 +1202,7 @@ fieldset[disabled] .btn-template-primary.active {
   }
 }
 .home-carousel h2 {
-  font-weight: 300;
+  font-weight: 100;
   text-transform: uppercase;
   font-size: 40px;
   letter-spacing: 0.08em;
@@ -1210,7 +1210,7 @@ fieldset[disabled] .btn-template-primary.active {
 .home-carousel ul,
 .home-carousel p {
   font-size: 18px;
-  font-weight: 100;
+  font-weight: 700;
   padding: 0;
   text-transform: uppercase;
   letter-spacing: 0.10em;
@@ -1300,7 +1300,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .testimonials .item .testimonial .bottom .icon {
   color: #986dbd;
-  font-size: 30px;
+  font-size: 50px;
   float: left;
   width: 20%;
 }
@@ -3353,19 +3353,19 @@ label {
 /* type */
 h1,
 h2,
+h3,
 .h1,
-.h2 {
+.h2,
+.h3 {
   font-family: "Alfa Slab One", "Roboto", Helvetica, Arial, sans-serif;
   font-weight: 100;
   line-height: 1.1;
   color: #333333;
 }
 
-h3,
 h4,
 h5,
 h6,
-.h3,
 .h4,
 .h5,
 .h6 {
