@@ -1,6 +1,7 @@
 baseurl = "https://www.languages-in-lichtenrade.de"
 title = "Languages in Lichtenrade"
 theme = "universal"
+publishDir ="docs"
 themesDir = "themes"
 languageCode = "en-us"
 # Enable Google Analytics by entering your tracking code
@@ -20,7 +21,7 @@ paginate = 10
 
 [[menu.main]]
     name = "Classes"
-    url  = "/classes/"
+    url  = "/blog/"
     weight = 2
 
 [[menu.main]]
